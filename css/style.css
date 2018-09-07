@@ -1,0 +1,14 @@
+
+#zm{ position:fixed; width:100%; height:100%; top:0; left:0; display:none;}
+.zm_zz{ position:absolute; height:100%; width:100%; background: url(../images/bg7.png); top:0; left:0; z-index:2;}
+.zm_zc{ width:542px; background:url(../images/tkbg.png) no-repeat; position:absolute; left:50%; margin-left:-250px; z-index:3;  top:15%;height: 572px;}
+.zm_zc p{ font-size:16px; text-align:center; color:#666; line-height:35px;} .zm_zc span{ display:block; height:40px; border:1px solid #ccc;background: url(../images/phone.png) no-repeat 5px center;padding-left:50px; position:relative;}
+.zm_zc span input{ height:40px; line-height:40px;  width:100%;} .zm_zc span i{ line-height:40px; font-size:16px; color:#999; width:90%; left:50px; top:0; position:absolute; text-align:left;}
+.zm_zc a{ display:block; width:150px; line-height:40px; background: #e72323;border-bottom: 0.3rem solid #910d0d;border-radius:5px; font-size:20px; text-align:center; color:#fff; font-weight:bold; margin:15px auto 0; animation:pluse 0.5s linear alternate infinite;-webkit-animation:pluse 0.5s linear alternate infinite; }
+.zm_zc p{ font-size:24px; text-align:center; color:#666; line-height:35px;margin-top: 45px;}
+.zm_zcc{margin-top:70px;}
+.zm_zcc h1{font-size: 30px;text-align: center;color: #ff4102;}
+.zm_zcc p{font-size: 22px;margin-top: 15px;color: #6d6d6d;}
+.zm_zcc .ewm{width: 220px;height: 220px;position: absolute;left:50%;margin-left: -110px;top: 259px;}
+.zm_zcc .ewm img{width: 220px;height: 220px;}
+.zm_zcc p:nth-of-type(2){position: absolute;bottom: 40px;width: 100%;color: #fff;}
